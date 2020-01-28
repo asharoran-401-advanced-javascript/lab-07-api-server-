@@ -2,8 +2,8 @@
 
 ## Author: Ashar Oran
 ## Links and Resources
-* PR : []
-* Action : []
+* PR : [https://github.com/asharoran-401-advanced-javascript/lab-07-api-server-/pull/1]
+* Action : [https://github.com/asharoran-401-advanced-javascript/lab-07-api-server-/actions]
 ## Setup
 .env requirements
 ## PORT - 3000
